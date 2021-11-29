@@ -1,0 +1,4 @@
+C:/AK2_lab_2/build/CMakeFiles/Calculator.dir
+C:/AK2_lab_2/build/CMakeFiles/run.dir
+C:/AK2_lab_2/build/CMakeFiles/edit_cache.dir
+C:/AK2_lab_2/build/CMakeFiles/rebuild_cache.dir
